@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "585447333340",
+    "project_id": "audify-9ff4d",
+    "storage_bucket": "audify-9ff4d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585447333340:android:6752dbf545ab525e32c319",
+        "android_client_info": {
+          "package_name": "com.techiguru.audify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaWI4oD5vaowcNursmHk7QvNdhMwAy3tM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
